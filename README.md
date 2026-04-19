@@ -29,7 +29,7 @@
 ## 📸 Screenshots
 
 ![AI Vision Search Demo](ai-demo.png)
-ai-demo1.png
+(bura_dev_2.png)
 
 ## 🚀 Live Demo
 
