@@ -29,6 +29,7 @@
 ## 📸 Screenshots
 
 ![AI Vision Search Demo](ai-demo.png)
+ai-demo1.png
 
 ## 🚀 Live Demo
 
