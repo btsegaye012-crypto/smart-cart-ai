@@ -30,7 +30,7 @@
 
 ![AI Vision Search Demo](ai-demo.png)
 ![AI Vision Search Demo](bura_dev_2.png)
-![AI Vision Search Demo](dawa boss.png)
+![AI Vision Search Demo](dawa_boss.png)
 
 ## 🚀 Live Demo
 
